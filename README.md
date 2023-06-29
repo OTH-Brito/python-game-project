@@ -11,7 +11,7 @@ Step-by-step for the setup
 pip install pygame
 ```
 
-##Next steps
+## Next steps
 
 * Brainstorm how the game will be (draft):
 * Decide all the entities in the game:
