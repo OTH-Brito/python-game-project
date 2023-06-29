@@ -2,7 +2,7 @@
 
 A Zelda-like game.
 
-Step-by-step for the setup
+## Step-by-step for the setup
 
 * Clone the repository
 * Install the dependencies (pygame):
